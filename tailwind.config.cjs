@@ -15,6 +15,11 @@ module.exports = {
           black: "#161932",
         },
       },
+      fontFamily: {
+        kumbh: ["Kumbh Sans", "sans-serif"],
+        roboto: ["Roboto Slab", "serif"],
+        space: ["Space Mono", "monospace"],
+      },
     },
   },
   plugins: [],
